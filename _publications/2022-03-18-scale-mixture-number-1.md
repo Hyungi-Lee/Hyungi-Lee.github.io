@@ -3,7 +3,7 @@ title: "Scale Mixture of Neural Network Gaussian Processes"
 collection: publications
 permalink: /publication/1
 excerpt: 
-date: 
+date: '2022-03-18'
 venue: 'ICLR 2022'
 paperurl: 'https://arxiv.org/abs/2107.01408'
 citation: 
