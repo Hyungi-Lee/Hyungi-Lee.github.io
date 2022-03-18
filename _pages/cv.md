@@ -13,7 +13,7 @@ Education
 ======
 * Gyeonggi Science High School for The Gifted, 2010.03-2013.02
 * B.S. in Mathematics, KAIST, 2013.03-2020.08
-* M.S. in AI, KAISt, 2020.09-2022.08(expected)
+* M.S. in AI, KAIST, 2020.09-2022.08(expected)
 
 Publications
 ======
