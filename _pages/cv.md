@@ -17,7 +17,10 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+- Improving ensemble distillation with weight averaging and diversifying perturbation\\
+Giung Nam, **Hyungi Lee**, Byeongho Heo, Juho Lee\\
+ICML 2022 (To appear)
+
+- Scale Mixture of Neural Network Gaussian Processes\\
+**Hyungi Lee**, Eunggu Yun, Hongseok Yang, Juho Lee\\
+ICLR 2022
