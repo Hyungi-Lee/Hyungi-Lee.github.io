@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+## Conferences
+- Improving ensemble distillation with weight averaging and diversifying perturbation\\
+Giung Nam, **Hyungi Lee**, Byeongho Heo, Juho Lee\\
+ICML 2022 (To appear)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Scale Mixture of Neural Network Gaussian Processes\\
+**Hyungi Lee**, Eunggu Yun, Hongseok Yang, Juho Lee\\
+ICLR 2022
