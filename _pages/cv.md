@@ -13,13 +13,14 @@ Education
 ======
 * Gyeonggi Science High School for The Gifted, 2010.03-2013.02
 * B.S. in Mathematics, KAIST, 2013.03-2020.08
-* M.S. in AI, KAIST, 2020.09-2022.08(expected)
+* M.S. in AI, KAIST, 2020.09-2022.08
+* PhD. in AI, KAIST, 2022.08-present
 
 Publications
 ======
 - Improving ensemble distillation with weight averaging and diversifying perturbation\\
 Giung Nam, **Hyungi Lee**, Byeongho Heo, Juho Lee\\
-ICML 2022 (To appear)
+ICML 2022
 
 - Scale Mixture of Neural Network Gaussian Processes\\
 **Hyungi Lee**, Eunggu Yun, Hongseok Yang, Juho Lee\\
