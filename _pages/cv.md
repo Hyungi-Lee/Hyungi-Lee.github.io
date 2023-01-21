@@ -18,6 +18,10 @@ Education
 
 Publications
 ======
+- Martingale Posterior Neural Processes\\
+**Hyungi Lee**, Eunggu Yun, Giung Nam, Edwin Fong, Juho Lee\\
+ICLR 2023 (**spotlight**) (to appear)
+
 - Improving ensemble distillation with weight averaging and diversifying perturbation\\
 Giung Nam, **Hyungi Lee**, Byeongho Heo, Juho Lee\\
 ICML 2022
