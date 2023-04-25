@@ -19,8 +19,8 @@ Education
 Publications
 ======
 - Traversing Between Modes in Function Space for Fast Ensembling\\
-Eunggu Yun*, **Hyungi Lee***, Giung Nam*, Edwin Fong, Juho Lee\\
-* Equal contribution \\
+Eunggu Yun\*, **Hyungi Lee\***, Giung Nam\*, Edwin Fong, Juho Lee\\
+\* Equal contribution \\
 ICML 2023 (to appear)
 
 - Regularizing Towards Soft Equivariance Under Mixed Symmetries\\
