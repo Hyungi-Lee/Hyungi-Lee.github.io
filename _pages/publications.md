@@ -8,7 +8,7 @@ author_profile: true
 
 ## Conferences
 - Traversing Between Modes in Function Space for Fast Ensembling\\
-Eunggu Yun\*, **Hyungi Lee\***, Giung Nam\*, Edwin Fong, Juho Lee\\
+Eunggu Yun\*, **Hyungi Lee\***, Giung Nam\*, Juho Lee\\
 \* Equal contribution \\
 ICML 2023 (to appear)
 
