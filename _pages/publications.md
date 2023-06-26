@@ -27,3 +27,9 @@ ICML 2022
 - Scale Mixture of Neural Network Gaussian Processes\\
 **Hyungi Lee**, Eunggu Yun, Hongseok Yang, Juho Lee\\
 ICLR 2022
+
+
+## Workshop
+- Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
+Balhae Kim, Hyungi Lee, Juho Lee
+ICML 2023 Workshop

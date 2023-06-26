@@ -18,6 +18,10 @@ Education
 
 Publications
 ======
+- Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
+Balhae Kim, Hyungi Lee, Juho Lee
+ICML 2023 Workshop
+
 - Traversing Between Modes in Function Space for Fast Ensembling\\
 Eunggu Yun\*, **Hyungi Lee\***, Giung Nam\*, Juho Lee\\
 \* Equal contribution \\
