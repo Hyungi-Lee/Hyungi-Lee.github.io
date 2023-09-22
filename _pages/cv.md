@@ -20,7 +20,7 @@ Publications
 ======
 - Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
 Balhae Kim, **Hyungi Lee**, Juho Lee\\
-NeurIPS 2023\\
+NeurIPS 2023 (to appear)\\
 ICML 2023 Workshop
 
 - Traversing Between Modes in Function Space for Fast Ensembling\\
