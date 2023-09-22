@@ -7,14 +7,20 @@ author_profile: true
 
 
 ## Conferences
+- Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
+Balhae Kim, **Hyungi Lee**, Juho Lee\\
+NeurIPS 2023\\
+ICML 2023 Workshop\\
+
+
 - Traversing Between Modes in Function Space for Fast Ensembling\\
 Eunggu Yun\*, **Hyungi Lee\***, Giung Nam\*, Juho Lee\\
 \* Equal contribution \\
-ICML 2023 (to appear)
+ICML 2023
 
 - Regularizing Towards Soft Equivariance Under Mixed Symmetries\\
 Hyunsu Kim, **Hyungi Lee**, Hongseok Yang, Juho Lee\\
-ICML 2023 (to appear)
+ICML 2023
 
 - Martingale Posterior Neural Processes\\
 **Hyungi Lee**, Eunggu Yun, Giung Nam, Edwin Fong, Juho Lee\\
