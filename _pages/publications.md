@@ -9,7 +9,7 @@ author_profile: true
 ## Conferences
 - Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
 Balhae Kim, **Hyungi Lee**, Juho Lee\\
-NeurIPS 2023 (to appear)\\
+NeurIPS 2023 (to appear)
 
 
 
