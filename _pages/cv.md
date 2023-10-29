@@ -20,8 +20,7 @@ Publications
 ======
 - Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
 Balhae Kim, **Hyungi Lee**, Juho Lee\\
-NeurIPS 2023 (to appear)\\
-ICML 2023 Workshop
+NeurIPS 2023 (to appear)
 
 - Traversing Between Modes in Function Space for Fast Ensembling\\
 Eunggu Yun\*, **Hyungi Lee\***, Giung Nam\*, Juho Lee\\
@@ -43,3 +42,12 @@ ICML 2022
 - Scale Mixture of Neural Network Gaussian Processes\\
 **Hyungi Lee**, Eunggu Yun, Hongseok Yang, Juho Lee\\
 ICLR 2022
+
+Workshop
+- Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
+Balhae Kim, **Hyungi Lee**, Juho Lee\\
+ICML 2023 Workshop
+
+- Model Fusion through Bayesian Optimization in Language Model Fine-Tuning\\
+Chaeyun Jang, Jungtaek Kim, **Hyungi Lee**, Juho Lee\\
+The 3rd NeurIPS Workshop on Efficient Natural Language and Speech Processing (ENLSP)
