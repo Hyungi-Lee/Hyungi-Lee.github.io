@@ -39,3 +39,7 @@ ICLR 2022
 - Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
 Balhae Kim, **Hyungi Lee**, Juho Lee\\
 ICML 2023 Workshop
+
+- Model Fusion through Bayesian Optimization in Language Model Fine-Tuning\\
+Chaeyun Jang, Jungtaek Kim, **Hyungi Lee**, Juho Lee\\
+The 3rd NeurIPS Workshop on Efficient Natural Language and Speech Processing (ENLSP)
