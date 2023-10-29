@@ -44,6 +44,7 @@ ICML 2022
 ICLR 2022
 
 Workshop
+======
 - Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
 Balhae Kim, **Hyungi Lee**, Juho Lee\\
 ICML 2023 Workshop
