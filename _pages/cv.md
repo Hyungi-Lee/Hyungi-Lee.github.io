@@ -19,7 +19,7 @@ Education
 Publications
 ======
 - Enhancing Transfer Learning with Flexible Nonparametric Posterior Sampling\\
-**Hyungi Lee\***, Giung Nam\*, Juho Lee\\
+**Hyungi Lee\***, Giung Nam\*, Edwin Fong, Juho Lee\\
 \* Equal contribution \\
 ICLR 2024 (To appear)
 
