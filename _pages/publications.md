@@ -10,7 +10,7 @@ author_profile: true
 - Model Fusion through Bayesian Optimization in Language Model Fine-Tuning\\
 Chaeyun Jang, **Hyungi Lee\***, Jungtaek Kim, Juho Lee\\
 \* Equal contribution \\
-NeurIPS 2024 (To appear)
+NeurIPS 2024 (**spotlight**)(To appear)
 
 - Enhancing Transfer Learning with Flexible Nonparametric Posterior Sampling\\
 **Hyungi Lee\***, Giung Nam\*, Edwin Fong, Juho Lee\\
