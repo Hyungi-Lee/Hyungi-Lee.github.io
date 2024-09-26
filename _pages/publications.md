@@ -8,7 +8,7 @@ author_profile: true
 
 ## Conferences
 - Model Fusion through Bayesian Optimization in Language Model Fine-Tuning\\
-Chaeyun Jang, **Hyungi Lee\***, Jungtaek Kim, Juho Lee\\
+Chaeyun Jang\*, **Hyungi Lee\***, Jungtaek Kim, Juho Lee\\
 \* Equal contribution \\
 NeurIPS 2024 (**spotlight**)(To appear)
 
