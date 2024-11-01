@@ -60,6 +60,11 @@ ICLR 2022
 
 Workshop
 ======
+- Efficient Modeling of Irregular Time-Series with Stochastic Optimal Control\\
+Byoungwoo Park\*, **Hyungi Lee\***, Juho Lee\\
+\*Equal contribution\\
+NeurIPS 2024 Workshop Bayesian Decision-making and Uncertainty
+
 - Function Space Bayesian Pseudocoreset for Bayesian Neural Networks\\
 Balhae Kim, **Hyungi Lee**, Juho Lee\\
 ICML 2023 Workshop
