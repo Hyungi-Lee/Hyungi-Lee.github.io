@@ -19,6 +19,7 @@ Education
 Experience
 =====
 * Visiting Student at RIKEN AIP, supervised by Mohammad Emtiyaz Khan, 2024.11 - 2025.02
+* Visiting Scholar at New York University, supervised by Rajesh Ranganath, 2025.02 - 2025.06 (expected)
 
 Publications
 ======
