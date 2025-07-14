@@ -9,15 +9,15 @@ author_profile: true
 ## Conferences
 - Dimension Agnostic Neural Processess\\
 **Hyungi Lee**, Chaeyun Jang, Dong Bok Lee, Juho Lee\\
-ICLR 2025 (To Appear)
+ICLR 2025
 
 - Variational Bayesian Pseudo-Coreset\\
 **Hyungi Lee**, Seungyoo Lee, Juho Lee\\
-ICLR 2025 (To Appear)
+ICLR 2025
 
 - Amortized Control of Continuous State Space Feynman-Kac Model for Irregular Time Series\\
 Byoungwoo Park, **Hyungi Lee**, Juho Lee\\
-ICLR 2025 (To Appear)
+ICLR 2025
 
 - Model Fusion through Bayesian Optimization in Language Model Fine-Tuning\\
 Chaeyun Jang\*, **Hyungi Lee\***, Jungtaek Kim, Juho Lee\\
