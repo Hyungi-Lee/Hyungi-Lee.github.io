@@ -73,3 +73,7 @@ ICML 2023 Workshop
 - Model Fusion through Bayesian Optimization in Language Model Fine-Tuning\\
 Chaeyun Jang, Jungtaek Kim, **Hyungi Lee**, Juho Lee\\
 The 3rd NeurIPS Workshop on Efficient Natural Language and Speech Processing (ENLSP)
+
+- Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision\\
+Chaeyun Jang, Moonseok Choi, Yegon Kim, **Hyungi Lee**, Juho Lee\\
+ICML 2025 R2-FM Workshop

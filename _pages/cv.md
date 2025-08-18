@@ -14,12 +14,12 @@ Education
 * Gyeonggi Science High School for The Gifted, 2010.03-2013.02
 * B.S. in Mathematics, KAIST, 2013.03-2020.08
 * M.S. in AI, KAIST, 2020.09-2022.08
-* PhD. in AI, KAIST, 2022.08-present
+* PhD. in AI, KAIST, 2022.08-2025.08
 
 Experience
 =====
 * Visiting Student at RIKEN AIP, supervised by Mohammad Emtiyaz Khan, 2024.11 - 2025.02
-* Visiting Scholar at New York University, supervised by Rajesh Ranganath, 2025.02 - 2025.06 (expected)
+* Visiting Scholar at New York University, supervised by Rajesh Ranganath, 2025.02 - 2025.06
 
 Publications
 ======
@@ -89,3 +89,7 @@ ICML 2023 Workshop
 - Model Fusion through Bayesian Optimization in Language Model Fine-Tuning\\
 Chaeyun Jang, Jungtaek Kim, **Hyungi Lee**, Juho Lee\\
 The 3rd NeurIPS Workshop on Efficient Natural Language and Speech Processing (ENLSP)
+
+- Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision\\
+Chaeyun Jang, Moonseok Choi, Yegon Kim, **Hyungi Lee**, Juho Lee\\
+ICML 2025 R2-FM Workshop
