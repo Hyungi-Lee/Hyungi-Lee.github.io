@@ -7,6 +7,24 @@ author_profile: true
 
 
 ## Conferences
+- PANGEA: Projection-Based Augmentation with Non-Relevant General Data for Enhanced Domain Adaptation in LLMs\\
+Seungyoo Lee, Giung Nam, Moonseok Choi, **Hyungi Lee**\*, Juho Lee\*\\
+\* Equal Corresponding
+NeurIPS2025 (To appear)
+
+- Test Time Scaling for Neural Processes\\
+**Hyungi Lee**, Moonseok Choi, Hyunsu Kim, Kyunghyun Cho, Rajesh Ranganath, Juho Lee\\
+NeurIPS2025 (To appear)
+
+- Reliable Decision-Making via Calibration-Oriented Retrieval-Augmented Generation\\
+Chaeyun Jang, Deukhwan Cho, Seanie Lee, **Hyungi Lee**\*, Juho Lee\*\\
+\* Equal Corresponding
+NeurIPS2025 (To appear)
+
+- Compact Memory for Continual Logistic Regression\\
+Yohan Jung\*, **Hyungi Lee**\*, Wenlong Chen\*, Thomas Mollenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan\\
+NeurIPS2025 (To appear)
+
 - Dimension Agnostic Neural Processess\\
 **Hyungi Lee**, Chaeyun Jang, Dong Bok Lee, Juho Lee\\
 ICLR 2025
