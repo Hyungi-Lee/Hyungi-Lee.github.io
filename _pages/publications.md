@@ -18,7 +18,7 @@ NeurIPS2025 (To appear)
 
 - Reliable Decision-Making via Calibration-Oriented Retrieval-Augmented Generation\\
 Chaeyun Jang, Deukhwan Cho, Seanie Lee, **Hyungi Lee**\*, Juho Lee\*\\
-\* Equal Corresponding
+\* Equal Corresponding\\
 NeurIPS2025 (To appear)
 
 - Compact Memory for Continual Logistic Regression\\
