@@ -9,7 +9,7 @@ author_profile: true
 ## Conferences
 - PANGEA: Projection-Based Augmentation with Non-Relevant General Data for Enhanced Domain Adaptation in LLMs\\
 Seungyoo Lee, Giung Nam, Moonseok Choi, **Hyungi Lee**\*, Juho Lee\*\\
-\* Equal Corresponding
+\* Equal Corresponding\\
 NeurIPS2025 (To appear)
 
 - Test Time Scaling for Neural Processes\\

@@ -25,7 +25,7 @@ Publications
 ======
 - PANGEA: Projection-Based Augmentation with Non-Relevant General Data for Enhanced Domain Adaptation in LLMs\\
 Seungyoo Lee, Giung Nam, Moonseok Choi, **Hyungi Lee**\*, Juho Lee\*\\
-\* Equal Corresponding
+\* Equal Corresponding\\
 NeurIPS2025 (To appear)
 
 - Test Time Scaling for Neural Processes\\
@@ -34,7 +34,7 @@ NeurIPS2025 (To appear)
 
 - Reliable Decision-Making via Calibration-Oriented Retrieval-Augmented Generation\\
 Chaeyun Jang, Deukhwan Cho, Seanie Lee, **Hyungi Lee**\*, Juho Lee\*\\
-\* Equal Corresponding
+\* Equal Corresponding\\
 NeurIPS2025 (To appear)
 
 - Compact Memory for Continual Logistic Regression\\
