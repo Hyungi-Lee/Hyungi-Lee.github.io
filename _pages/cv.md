@@ -38,7 +38,7 @@ Chaeyun Jang, Deukhwan Cho, Seanie Lee, **Hyungi Lee**\*, Juho Lee\*\\
 NeurIPS2025 (To appear)
 
 - Compact Memory for Continual Logistic Regression\\
-Yohan Jung\*, **Hyungi Lee**\*, Wenlong Chen\*, Thomas Mollenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan\\
+Yohan Jung, **Hyungi Lee**, Wenlong Chen, Thomas Mollenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan\\
 NeurIPS2025 (To appear)
 
 - Dimension Agnostic Neural Processess\\
