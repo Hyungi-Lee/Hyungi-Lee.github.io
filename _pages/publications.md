@@ -7,23 +7,38 @@ author_profile: true
 
 
 ## Conferences
+- Confidence is Not UniversalL Task-Dependent Calibration and Emergent Behavior in LLMs\\
+Chaeyun Jang, Moonseok Choi, Yegon Kim, Seungyoo Lee, Juho Lee\*, **Hyungi Lee**\*\\
+\* Equal Corresponding\\
+ICML2026 (To Appear)
+
+- From Drift to Coherence: Stabilizing Beliefs in LLMs\\
+SongEun Kim, Seungyoo Lee, Edwin Fong, **Hyungi Lee**\*, Juho Lee\*\\
+\* Equal Corresponding\\
+ICML2026 (To Appear)
+
+- OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards\\
+Seungyoo Lee, Giung Nam, **Hyungi Lee**\*, Juho Lee\*\\
+\* Equal Corresponding\\
+ICML2026 (To Appear)
+
 - PANGEA: Projection-Based Augmentation with Non-Relevant General Data for Enhanced Domain Adaptation in LLMs\\
 Seungyoo Lee, Giung Nam, Moonseok Choi, **Hyungi Lee**\*, Juho Lee\*\\
 \* Equal Corresponding\\
-NeurIPS2025 (To appear)
+NeurIPS2025
 
 - Test Time Scaling for Neural Processes\\
 **Hyungi Lee**, Moonseok Choi, Hyunsu Kim, Kyunghyun Cho, Rajesh Ranganath, Juho Lee\\
-NeurIPS2025 (To appear)
+NeurIPS2025
 
 - Reliable Decision-Making via Calibration-Oriented Retrieval-Augmented Generation\\
 Chaeyun Jang, Deukhwan Cho, Seanie Lee, **Hyungi Lee**\*, Juho Lee\*\\
 \* Equal Corresponding\\
-NeurIPS2025 (To appear)
+NeurIPS2025
 
 - Compact Memory for Continual Logistic Regression\\
 Yohan Jung, **Hyungi Lee**, Wenlong Chen, Thomas Mollenhoff, Yingzhen Li, Juho Lee, Mohammad Emtiyaz Khan\\
-NeurIPS2025 (To appear)
+NeurIPS2025
 
 - Dimension Agnostic Neural Processess\\
 **Hyungi Lee**, Chaeyun Jang, Dong Bok Lee, Juho Lee\\
