@@ -7,20 +7,34 @@ author_profile: true
 
 
 ## Conferences
+- Improving Neural Processes in the Low-Data Regime via Context-Subset Training and Self-Distillation\\
+**Hyungi Lee**, Jangho Kim\\
+NeurIPS2026 (To Appear)
+
+- PriSM: Prior-guided Shared-basis Mixture Personalization for LLMs under Sparse User Histories\\
+Hae Eun Lee, **Hyungi Lee**\*, Jangho Kim\*\\
+\* Equal Corresponding\\
+NeurIPS2026 (To Appear)
+
+- SAVE: Sparsity-Aware Influence Estimation for Vocabulary-Expanded LLMs\\
+Seungyoo Lee, Giung Nam, Seanie Lee, **Hyungi Lee**\*, Juho Lee\*\\
+\* Equal Corresponding\\
+NeurIPS2026 (To Appear)
+
 - Confidence is Not UniversalL Task-Dependent Calibration and Emergent Behavior in LLMs\\
 Chaeyun Jang, Moonseok Choi, Yegon Kim, Seungyoo Lee, Juho Lee\*, **Hyungi Lee**\*\\
 \* Equal Corresponding\\
-ICML2026 (To Appear)
+ICML2026
 
 - From Drift to Coherence: Stabilizing Beliefs in LLMs\\
 SongEun Kim, Seungyoo Lee, Edwin Fong, **Hyungi Lee**\*, Juho Lee\*\\
 \* Equal Corresponding\\
-ICML2026 (To Appear)
+ICML2026
 
 - OCNR: Stabilizing Self-Play by Mitigating Iteration-Collapse With One-Class Novelty Rewards\\
 Seungyoo Lee, Giung Nam, **Hyungi Lee**\*, Juho Lee\*\\
 \* Equal Corresponding\\
-ICML2026 (To Appear)
+ICML2026
 
 - PANGEA: Projection-Based Augmentation with Non-Relevant General Data for Enhanced Domain Adaptation in LLMs\\
 Seungyoo Lee, Giung Nam, Moonseok Choi, **Hyungi Lee**\*, Juho Lee\*\\
