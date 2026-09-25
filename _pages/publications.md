@@ -21,7 +21,7 @@ Seungyoo Lee, Giung Nam, Seanie Lee, **Hyungi Lee**\*, Juho Lee\*\\
 \* Equal Corresponding\\
 NeurIPS2026 (To Appear)
 
-- Confidence is Not UniversalL Task-Dependent Calibration and Emergent Behavior in LLMs\\
+- Confidence is Not Universal: Task-Dependent Calibration and Emergent Behavior in LLMs\\
 Chaeyun Jang, Moonseok Choi, Yegon Kim, Seungyoo Lee, Juho Lee\*, **Hyungi Lee**\*\\
 \* Equal Corresponding\\
 ICML2026
